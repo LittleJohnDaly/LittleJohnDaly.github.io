@@ -1,0 +1,33 @@
+h1{
+    font-family:Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("../img/pattern.jpeg");
+    text-align: center;
+}
+
+h2{
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+strong{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-weight: bold;
+}
+
+.time-one h2{
+    background-color: mediumspringgreen;
+}
+
+.time-two h2{
+    background-color: lightcoral;
+}
+
+.time-three h2{
+    background-color: skyblue;
+}
